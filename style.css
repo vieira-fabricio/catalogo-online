@@ -100,7 +100,7 @@ header h1 {
 }
 
 .product-info h3 {
-  color: var(--verde);
+  color: var(--verde-escuro);
   font-size: 1.1rem;
 }
 
