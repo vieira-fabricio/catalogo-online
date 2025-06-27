@@ -142,6 +142,6 @@ header h1 {
 
 @media(min-width: 768px) {
   .carousel {
-    justify-content: center;
+    justify-content: left;
   }
 }
